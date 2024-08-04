@@ -1,4 +1,4 @@
- <img src="https://i.pinimg.com/736x/4d/c4/f2/4dc4f206aa3af25b5f2cf766c4796513.jpg" align="center" height="500" width="800" alt="">
+ <img src="https://i.pinimg.com/736x/4d/c4/f2/4dc4f206aa3af25b5f2cf766c4796513.jpg" align="center" height="800" width="700" alt="">
 <h1 align="center">Hi 👋, I'm Istaprasad Patra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
