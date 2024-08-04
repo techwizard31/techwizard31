@@ -1,4 +1,4 @@
- <img src="https://wallpapercave.com/wp/wp13335969.png" align="center" height="250" width="500" alt="">
+ <img src="https://wallpapercave.com/wp/wp13335969.png" align="center" height="400" width="700" alt="">
 <h1 align="center">Hi 👋, I'm Istaprasad Patra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
