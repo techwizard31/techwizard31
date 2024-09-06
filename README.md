@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kubernatives, Jenkins and DSA**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-techwizard31s-projects.vercel.app/](https://portfolio-techwizard31s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://offical-portfolio-chi.vercel.app/](https://offical-portfolio-chi.vercel.app/)
 
 - 📫 How to reach me **istaprasad.patra@gmail.com**
 
