@@ -1,4 +1,4 @@
- <img src="https://res.cloudinary.com/dirszb3rw/image/upload/v1745746913/wzhvvufyrd3anv6j53j6.jpg" align="center" height="425" width="1100" alt="">
+ <img src="https://res.cloudinary.com/dirszb3rw/image/upload/v1745746913/wzhvvufyrd3anv6j53j6.jpg" align="center" height="425" width="1000" alt="">
 <h1 align="center">Hi 👋, I'm Istaprasad Patra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
